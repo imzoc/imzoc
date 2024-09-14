@@ -1,10 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on [implementing strobemers in Rust](https://github.com/TravisWheelerLab/strobemers)
-- 🌱 I’m currently learning about bioinformatics algorithms, and I'm taking a very "out there" course on quantum sensing and quantum machine learning this semester.
-- 👯 I’m looking to collaborate on sequence similarity estimation techniques.
-- 🤔 I’m looking for help with \[TBD]
-- 💬 Ask me about Obsidian, UNIX tools, and productivity tips!
-- 📫 How to reach me: zachk at arizona dot edu :)
-- 😄 Pronouns: he/him
+- 🔭 I'm about to start research on [Tensor Sketching](https://www.biorxiv.org/content/10.1101/2020.11.13.381814v5.full)
+- 🌱 I'm learning about algorithms, quantum computing, and explainable AI.
+- 🤔 I'd really like some help with Linux tools and especially window managers. Hit me up if you're good with that.
+- 💬 Ask me about Obsidian, cooking, productivity, and maths!
+- 👯 I'm friendly :) send me an email! zachk (at) arizona.edu
 - ⚡ Fun fact: I drink > 2 liters of milk per day on average.
 
